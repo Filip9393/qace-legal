@@ -8,7 +8,7 @@
 
 ## 1. Introduction
 
-Welcome to QAce: Interview Preparation ("App", "we", "our", "us"). This Privacy Policy explains how we handle information when you use our mobile application available on iOS and Android.
+Welcome to QAce: Ace your QA interview ("App", "we", "our", "us"). This Privacy Policy explains how we handle information when you use our mobile application available on iOS and Android.
 
 We are committed to protecting your privacy. QAce is designed to work without collecting any personal data.
 
